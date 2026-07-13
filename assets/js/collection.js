@@ -170,23 +170,17 @@ function renderProducts(products){
 
 
         <div class="card-image">
-
-
-            <img
-            src="assets/images/products/${product.image}"
-            alt="${product.name}"
-            >
-
-
+        <img
+        src="assets/images/products/${product.image}"
+        alt="${product.name}"
+        >
         </div>
-
-
-
-
-        ${product.badge ? 
-        `<span class="badge">
+        ${product.badge ?
+        `
+        <span class="product-badge">
         ${product.badge}
-        </span>`
+        </span>
+        `
         :
         ""}
 
@@ -195,6 +189,35 @@ function renderProducts(products){
         <h3>
         ${product.name}
         </h3>
+
+
+
+        ${product.rating ?
+
+        `
+        <p class="rating">
+
+        <span class="stars">
+
+        ${generateStars(product.rating)}
+
+        </span>
+
+
+        <span class="rating-number">
+
+        ${product.rating}
+        (${product.reviews})
+
+        </span>
+
+        </p>
+        `
+
+        :
+
+        ""
+        }
 
 
 
@@ -231,6 +254,40 @@ function renderProducts(products){
 
     });
 
+
+}
+
+
+
+
+function generateStars(rating){
+
+    const fullStars =
+    Math.floor(rating);
+
+
+    let stars="";
+
+
+    for(
+        let i=0;
+        i<fullStars;
+        i++
+    ){
+
+        stars += "★";
+
+    }
+
+
+    while(stars.length < 5){
+
+        stars += "☆";
+
+    }
+
+
+    return stars;
 
 }
 
