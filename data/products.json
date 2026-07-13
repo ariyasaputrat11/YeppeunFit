@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "category": "tops",
+    "name": "Oversize Basic Top",
+    "description": "Comfortable oversized top perfect for everyday outfits.",
+    "price": 79000,
+    "image": "top-01.webp",
+    "badge": "Best Seller",
+    "affiliate":"LINK_SHOPEE_AFFILIATe",
+    "active": true
+  },
+  {
+    "id": 2,
+    "category": "outerwear",
+    "name": "Minimal Outer Cardigan",
+    "description": "Lightweight outerwear for effortless layering.",
+    "price": 129000,
+    "image": "outer-01.webp",
+    "badge": "New",
+    "affiliate": "LINK_SHOPEE_AFFILIATE",
+    "active": true
+  },
+  {
+    "id": 3,
+    "category": "knits",
+    "name": "Soft Knit Sweater",
+    "description": "Soft knit sweater with a timeless silhouette.",
+    "price": 99000,
+    "image": "knit-01.webp",
+    "badge": "Trending",
+    "affiliate": "LINK_SHOPEE_AFFILIATE",
+    "active": true
+  },
+  {
+    "id": 4,
+    "category": "activewear",
+    "name": "Women's Sport Jacket",
+    "description": "Comfortable activewear jacket for daily movement.",
+    "price": 149000,
+    "image": "sport-01.webp",
+    "badge": "Popular",
+    "affiliate": "LINK_SHOPEE_AFFILIATE",
+    "active": true
+  },
+  {
+    "id": 5,
+    "category": "skirts",
+    "name": "Elegant Long Skirt",
+    "description": "Flowy long skirt for a graceful everyday look.",
+    "price": 89000,
+    "image": "skirt-01.webp",
+    "badge": "Best Seller",
+    "affiliate": "LINK_SHOPEE_AFFILIATE",
+    "active": true
+  },
+  {
+    "id": 6,
+    "category": "daily wear",
+    "name": "Daily Casual Outfit",
+    "description": "Curated casual outfit for effortless daily style.",
+    "price": 109000,
+    "image": "daily-01.webp",
+    "badge": "Editor's Pick",
+    "affiliate":"LINK_SHOPEE_AFFILIATE",
+    "active": true
+  }
+]
