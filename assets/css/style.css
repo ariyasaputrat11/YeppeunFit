@@ -155,7 +155,19 @@ section{scroll-margin-top:100px}
         background .3s ease,
         box-shadow .3s ease;
 }
+.product-total{
 
+    font-size:13px;
+
+    color:#999;
+
+    letter-spacing:1px;
+
+    text-transform:uppercase;
+
+    margin-bottom:18px;
+
+}
 
 .fashion-card a:hover{
 
