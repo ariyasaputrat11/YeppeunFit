@@ -1,0 +1,51 @@
+[
+  {
+    "id": "tops",
+    "name": "Tops",
+    "subtitle": "Everyday essentials designed for effortless style.",
+    "thumbnail":"tops.webp",
+    "banner":"tops-banner.webp"
+  },
+  {
+    "id": "outerwear",
+    "name": "Outerwear",
+    "subtitle": "Layer up with timeless outerwear for every season.",
+    "thumbnail": "outerwear.webp",
+    "banner": "outerwear-banner.webp"
+  },
+  {
+    "id": "knits",
+    "name": "Knits",
+    "subtitle": "Soft knitwear made for comfort and elegance.",
+    "thumbnail": "knits.webp",
+    "banner": "knits-banner.webp"
+  },
+  {
+    "id": "activewear",
+    "name": "Activewear",
+    "subtitle": "Move freely with stylish active essentials.",
+    "thumbnail": "activewear.webp",
+    "banner": "activewear-banner.webp"
+  },
+  {
+    "id": "skirts",
+    "name": "Skirts",
+    "subtitle": "Elegant skirts curated for every occasion.",
+    "thumbnail": "skirts.webp",
+    "banner": "skirts-banner.webp"
+  },
+  {
+    "id": "daily",
+    "name": "Daily Wear",
+    "subtitle": "Versatile everyday outfits you'll love.",
+    "thumbnail": "daily wear.webp",
+    "banner": "daily wear-banner.webp"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "subtitle": "Complete your look with timeless accessories.",
+    "thumbnail": "accessories.webp",
+    "banner": "accessories-banner.webp"
+  }
+]
