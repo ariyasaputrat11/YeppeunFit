@@ -180,5 +180,19 @@
     "reviews": 301,
     "affiliate": "https://s.shopee.co.id/30mPJLnU3s",
     "active": true
+  },
+  {
+    "id": 14,
+    "code": "YF-B004",
+    "category": "tops",
+    "name": "BILA TOP BLOUSE WANITA TERKINI/BLOUSE WANITA TERMURAH/BLUS WANITA ELEGAN",
+    "description": "✨ Tampil stylish dengan blouse kombinasi berkerah dan aksen ruffle yang elegan serta nyaman digunakan.",
+    "price": 44500,
+    "image": "tops/top-004.webp",
+    "badge": "New",
+    "rating": 4.6,
+    "reviews": 7.3,
+    "affiliate":"https://s.shopee.co.id/AKZ54DAJrW",
+    "active": true
   }
 ]
