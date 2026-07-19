@@ -194,5 +194,33 @@
     "reviews": 7.3,
     "affiliate":"https://s.shopee.co.id/AKZ54DAJrW",
     "active": true
+  },
+  {
+    "id": 15,
+    "code": "YF-E001",
+    "category": "accessories",
+    "name": "YOS-TAS ZIRA SHOULDER VINTAGE WANITA ELEGAN / TAS BAHU WANITA KEKINIAN",
+    "description": "👜 Tas selempang elegan dengan desain minimalis yang cocok menemani setiap aktivitas dan melengkapi penampilanmu.",
+    "price": 12896,
+    "image": "accessories/accessories-001.webp",
+    "badge": "New",
+    "rating": 4.6,
+    "reviews": 5.2,
+    "affiliate":"https://s.shopee.co.id/AAFgQbZfYg",
+    "active": true
+  },
+  {
+    "id": 16,
+    "code": "YF-E002",
+    "category": "accessories",
+    "name": "AMIGOA Kacamata Anti Blue Light Bingkai Transparan Unisex Kacamata Anti Radiasi Anti Lelah",
+    "description": "👓 Kacamata minimalis yang stylish dan nyaman untuk digunakan setiap hari. ✨",
+    "price": 10999,
+    "image": "accessories/accessories-002.webp",
+    "badge": "Best Seller",
+    "rating": 4.8,
+    "reviews": 10.8,
+    "affiliate":"https://s.shopee.co.id/4fujtIefju",
+    "active": true
   }
 ]
