@@ -278,12 +278,6 @@ function renderProducts(products){
 
 
 
-        <p class="price">
-        Rp${product.price.toLocaleString("id-ID")}
-        </p>
-
-
-
 
         <a 
         href="${product.affiliate}"
