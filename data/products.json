@@ -206,5 +206,18 @@
     "reviews": 179,
     "affiliate": "https://vt.tokopedia.com/t/ZS9rMDBXYT9Ss-Rce6v/",
     "active": true
+  },
+  {
+    "id": 17,
+    "code": "YFS-E003",
+    "category": "accessories",
+    "name": "Pashmina Viscose Modal Bamboo Shawl Elhasna Hijab Indonesia",
+    "description": "🤎 Pashmina Viscose Lembut, ringan, dan nyaman dipakai seharian. Mudah dibentuk dengan tampilan flowy yang elegan.",
+    "image": "accessories/accessories-003.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 574,
+    "affiliate":"https://s.shopee.co.id/6VMS71BMBc",
+    "active": true
   }
 ]
