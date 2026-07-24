@@ -219,5 +219,18 @@
     "reviews": 574,
     "affiliate":"https://s.shopee.co.id/6VMS71BMBc",
     "active": true
+  },
+  {
+    "id": 18,
+    "code": "YFS-E004",
+    "category": "accessories",
+    "name": "alfaeyza - Hijab Bergo Instan Malay Shakila Non Pad Jersey Size M",
+    "description": "🤎 Pashmina Viscose Lembut, ringan, dan nyaman dipakai seharian. Mudah dibentuk dengan tampilan flowy yang elegan.",
+    "image": "accessories/accessories-004.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 7.5,
+    "affiliate":"https://s.shopee.co.id/6L35wg4mU9",
+    "active": true
   }
 ]
