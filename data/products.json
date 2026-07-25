@@ -232,5 +232,18 @@
     "reviews": 7.5,
     "affiliate":"https://s.shopee.co.id/6L35wg4mU9",
     "active": true
+  },
+  {
+    "id": 19,
+    "code": "YFS-G002",
+    "category": "daily",
+    "name": "Celana Baggy Sweatpants Looses Pants Highwaist Celana Panjang Daily Pria Wanita Korea Style Nyaman Soft Lembut Tebal Casual",
+    "description": "🤍 Effortless, comfy, and timeless. Baggy sweaterpants dengan bahan premium yang nyaman untuk menemani aktivitas setiap hari. ✨",
+    "image": "daily/daily-002.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 2.6,
+    "affiliate":"https://s.shopee.co.id/1VxsRj5W15",
+    "active": true
   }
 ]
