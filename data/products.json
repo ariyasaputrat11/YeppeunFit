@@ -245,5 +245,18 @@
     "reviews": 2.6,
     "affiliate":"https://s.shopee.co.id/1VxsRj5W15",
     "active": true
+  },
+  {
+    "id": 20,
+    "code": "YFT-G001",
+    "category": "daily",
+    "name": "TERA Top Knit Salur Kaos Oblong Wanita",
+    "description": "💖 Simple, comfy, dan stylish! Bahan rib knit yang lembut & stretch, fit di badan dengan motif stripe timeless.",
+    "image": "daily/daily-003.webp",
+    "badge": "Tiktok Shop",
+    "rating": 4.5,
+    "reviews": 5.9,
+    "affiliate":"https://vt.tokopedia.com/t/ZS9rvAH5XPbt4-FQR0A/",
+    "active": true
   }
 ]
