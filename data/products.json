@@ -258,5 +258,18 @@
     "reviews": 5.9,
     "affiliate":"https://vt.tokopedia.com/t/ZS9rvAH5XPbt4-FQR0A/",
     "active": true
+  },
+  {
+    "id": 21,
+    "code": "YFS-G003",
+    "category": "daily",
+    "name": "Celana Panjang Wanita Baggy - Everyday Strip Pants",
+    "description": "🤍 Celana Panjang Wanita Baggy, Nyaman dipakai seharian dengan model baggy yang stylish. ✨",
+    "image": "daily/daily-004.webp",
+    "badge": "Shopee",
+    "rating": 4.5,
+    "reviews": 850,
+    "affiliate":"https://s.shopee.co.id/2VqUTRov4a",
+    "active": true
   }
 ]
