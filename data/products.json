@@ -271,5 +271,18 @@
     "reviews": 850,
     "affiliate":"https://s.shopee.co.id/2VqUTRov4a",
     "active": true
+  },
+  {
+    "id": 22,
+    "code": "YFS-G004",
+    "category": "daily",
+    "name": "Celana Kulot Highwaist Wanita Stripe",
+    "description": "✨ Celana Kulot Motif Premium, nyaman, adem, dan stylish untuk dipakai setiap hari.",
+    "image": "daily/daily-005.webp",
+    "badge": "Shopee",
+    "rating": 4.6,
+    "reviews": 22.0,
+    "affiliate":"https://s.shopee.co.id/4qEQl1TY6z",
+    "active": true
   }
 ]
