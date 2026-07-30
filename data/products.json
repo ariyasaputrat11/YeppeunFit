@@ -284,5 +284,18 @@
     "reviews": 22.0,
     "affiliate":"https://s.shopee.co.id/4qEQl1TY6z",
     "active": true
+  },
+  {
+    "id": 23,
+    "code": "YFS-G005",
+    "category": "daily",
+    "name": "JDF - ON - Kaos Wanita Polkadot YEJIN Knit Premium",
+    "description": "🤍 Simple dan nyaman dipakai setiap hari. Motif polkadot yang timeless dengan bahan lembut dan adem 🌸",
+    "image": "daily/daily-006.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 3.9,
+    "affiliate":"https://s.shopee.co.id/AAFxuUnB57",
+    "active": true
   }
 ]
