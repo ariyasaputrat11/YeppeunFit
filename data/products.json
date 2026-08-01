@@ -297,5 +297,18 @@
     "reviews": 4.2,
     "affiliate":"https://s.shopee.co.id/1Vy37pxlbZ",
     "active": true
+  },
+  {
+    "id": 24,
+    "code": "YFS-B005",
+    "category": "tops",
+    "name": "JDF - ON - MOANA Blouse Two Tone Knit Katun",
+    "description": "🤍 Blouse wanita dengan kombinasi warna yang elegan dan desain peplum yang manis. ✨",
+    "image": "tops/top-005.webp",
+    "badge": "Shopee",
+    "rating": 4.7,
+    "reviews": 147,
+    "affiliate":"https://s.shopee.co.id/AKZRedLpcv",
+    "active": true
   }
 ]
