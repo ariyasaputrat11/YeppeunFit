@@ -310,5 +310,18 @@
     "reviews": 147,
     "affiliate":"https://s.shopee.co.id/AKZRedLpcv",
     "active": true
+  },
+  {
+    "id": 25,
+    "code": "YFS-G006",
+    "category": "daily",
+    "name": "MOONANA Kaos Wanita Adem Daily Trendy Korean Style T-Shirt Cewe Dewasa Lengan Pendek",
+    "description": "🌸 Kaos simpel dengan desain Korean style, Bahannya lembut, nyaman dipakai seharian, dan mudah dipadukan dengan berbagai outfit.",
+    "image": "daily/daily-007.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 309,
+    "affiliate":"https://s.shopee.co.id/7VFHbkcKCs",
+    "active": true
   }
 ]
