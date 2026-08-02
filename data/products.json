@@ -323,5 +323,18 @@
     "reviews": 309,
     "affiliate":"https://s.shopee.co.id/7VFHbkcKCs",
     "active": true
+  },
+  {
+    "id": 26,
+    "code": "YFS-B006",
+    "category": "tops",
+    "name": "Kebaya Encim Modern Renda Motif Bunga Bahan Katun Mikro Lengan Panjang",
+    "description": "✨ Kebaya Encim Modern Renda, Tampil anggun dan elegan dengan sentuhan renda motif bunga yang cantik. 🌸",
+    "image": "tops/top-006.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 14.3,
+    "affiliate":"https://s.shopee.co.id/3qLzvwvrWm",
+    "active": true
   }
 ]
