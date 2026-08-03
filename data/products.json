@@ -336,5 +336,18 @@
     "reviews": 14.3,
     "affiliate":"https://s.shopee.co.id/3qLzvwvrWm",
     "active": true
+  },
+  {
+    "id": 27,
+    "code": "YFS-B007",
+    "category": "tops",
+    "name": "Bytha Floral Blouse",
+    "description": "🤍 Blouse floral premium, memiliki detail motif yang cantik serta model yang elegan. 🌼",
+    "image": "tops/top-007.webp",
+    "badge": "Shopee",
+    "rating": 4.6,
+    "reviews": 1.0,
+    "affiliate":"https://s.shopee.co.id/2gA47KzgP9",
+    "active": true
   }
 ]
