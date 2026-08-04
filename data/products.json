@@ -349,5 +349,18 @@
     "reviews": 1.0,
     "affiliate":"https://s.shopee.co.id/2gA47KzgP9",
     "active": true
+  },
+  {
+    "id": 28,
+    "code": "YFS-B008",
+    "category": "tops",
+    "name": "SHASA FITTED SHIRT | Atasan Kemeja Wanita",
+    "description": "✨ Kemeja Wanita Stripe Korean Style, motif stripe yang elegan dan model fit body.",
+    "image": "tops/top-008.webp",
+    "badge": "Shopee",
+    "rating": 4.7,
+    "reviews": 19.1,
+    "affiliate":"https://s.shopee.co.id/6L3Na1Daoe",
+    "active": true
   }
 ]
