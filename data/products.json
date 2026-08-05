@@ -362,5 +362,18 @@
     "reviews": 19.1,
     "affiliate":"https://s.shopee.co.id/6L3Na1Daoe",
     "active": true
+  },
+  {
+    "id": 29,
+    "code": "YFS-G007",
+    "category": "daily",
+    "name": "Kaos Lengan Panjang POLKADOT MIYU Wanita Kekinian",
+    "description": "Atasan Top Korean Polkadot dengan desain simpel, motif polkadot yang manis, dan bahan nyaman. ✨",
+    "image": "daily/daily-008.webp",
+    "badge": "Shopee",
+    "rating": 4.6,
+    "reviews": 353,
+    "affiliate":"https://s.shopee.co.id/30mx80IUYv",
+    "active": true
   }
 ]
