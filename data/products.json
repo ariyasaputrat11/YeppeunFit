@@ -375,5 +375,18 @@
     "reviews": 353,
     "affiliate":"https://s.shopee.co.id/30mx80IUYv",
     "active": true
+  },
+  {
+    "id": 30,
+    "code": "YFS-D003",
+    "category": "knits",
+    "name": "JDF - ON - VALEN Top Blouse Serut Samping",
+    "description": "💙 Simple, chic, dan mudah dipadukan untuk berbagai gaya! Tambahkan JDF - ON - VALEN Top Blouse Serut Samping",
+    "image": "knits/knit-004.webp",
+    "badge": "Shopee",
+    "rating": 4.6,
+    "reviews": 16.2,
+    "affiliate": "https://s.shopee.co.id/5ArSHCEQ55",
+    "active": true
   }
 ]
