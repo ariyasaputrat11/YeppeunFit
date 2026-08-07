@@ -388,5 +388,18 @@
     "reviews": 16.2,
     "affiliate": "https://s.shopee.co.id/5ArSHCEQ55",
     "active": true
+  },
+  {
+    "id": 31,
+    "code": "YFS-B009",
+    "category": "tops",
+    "name": "JDF - ON - ELEANOR Top Jelly Fish Korean Style",
+    "description": "✨ Tampil lebih anggun dan feminin dengan ELEANOR Top Jelly Fish Korean Style.",
+    "image": "tops/top-009.webp",
+    "badge": "Shopee",
+    "rating": 4.6,
+    "reviews": 10.5,
+    "affiliate":"https://s.shopee.co.id/1LelzDNHph",
+    "active": true
   }
 ]
