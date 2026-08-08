@@ -401,5 +401,18 @@
     "reviews": 10.5,
     "affiliate":"https://s.shopee.co.id/1LelzDNHph",
     "active": true
+  },
+  {
+    "id": 32,
+    "code": "YFS-B010",
+    "category": "tops",
+    "name": "Kemeja kantor Wispie Chill Shirt Wanita Fitted Lengan Panjang",
+    "description": "🖤 Tampil rapi, classy, dan effortless dengan Wispie Chill Shirt.",
+    "image": "tops/top-010.webp",
+    "badge": "Shopee",
+    "rating": 4.5,
+    "reviews": 8.1,
+    "affiliate":"https://s.shopee.co.id/6fgJOsPlSi",
+    "active": true
   }
 ]
