@@ -414,5 +414,18 @@
     "reviews": 8.1,
     "affiliate":"https://s.shopee.co.id/6fgJOsPlSi",
     "active": true
+  },
+  {
+    "id": 33,
+    "code": "YFS-E005",
+    "category": "accessories",
+    "name": "INDOOMS Aurora Shoulder Sling Bag – Tas Selempang Wanita Modis Premium",
+    "description": "👜 INDOOMS Aurora Shoulder Sling Bag, Tampil simpel, elegan, dan mudah dipadukan dengan berbagai outfit.",
+    "image": "accessories/accessories-005.webp",
+    "badge": "Shopee",
+    "rating": 4.7,
+    "reviews": 3.5,
+    "affiliate":"https://s.shopee.co.id/5fnq6J0r1E",
+    "active": true
   }
 ]
