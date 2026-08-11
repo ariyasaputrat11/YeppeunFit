@@ -66,11 +66,11 @@
   },
   {
     "id": 6,
-    "code": "YFS-C002",
+    "code": "YFS-C001",
     "category": "outerwear",
     "name": "Outer Scarf Batwing Full Motif Lengan model kelalawar outwear cardigan Arwen Kekinian",
     "description": "🖤 Kimono Cardigan premium dengan siluet flowy dan motif eksklusif. Pilihan sempurna untuk tampilan modern, elegan, dan timeless. ✨",
-    "image": "outerwear/outerwear-002.webp",
+    "image": "outerwear/outerwear-001.webp",
     "badge": "Shopee",
     "rating": 4.8,
     "reviews": 10.1,
@@ -105,11 +105,11 @@
   },
   {
     "id": 9,
-    "code": "YFS-C003",
+    "code": "YFS-C002",
     "category": "outerwear",
     "name": "EVI VEST / VEST BASIC WANITA / Vest Semiwol Atasan Wanita Crop Casual",
     "description": "🤍 Tailored Vest premium dengan potongan clean dan detail elegan. Pilihan sempurna untuk menciptakan tampilan modern, classy, dan stylish. ✨",
-    "image": "outerwear/outerwear-003.webp",
+    "image": "outerwear/outerwear-002.webp",
     "badge": "Shopee",
     "rating": 4.9,
     "reviews": 8.1,
@@ -439,6 +439,19 @@
     "rating": 4.9,
     "reviews": 3.9,
     "affiliate":"https://s.shopee.co.id/5LB0Kohu5h",
+    "active": true
+  },
+  {
+    "id": 35,
+    "code": "YFS-H001",
+    "category": "pants",
+    "name": "Cargo Pants Wanita Highwaist Loose Pants Korean Style Jumbo",
+    "description": "✨ Cargo Pants Wanita – Celana cargo dengan model wide leg yang nyaman dan kekinian. 🤍",
+    "image": "pants/pants-001.webp",
+    "badge": "Shopee",
+    "rating": 4.7,
+    "reviews": 59.4,
+    "affiliate":"https://s.shopee.co.id/5ArbyKNvkm",
     "active": true
   }
 ]
