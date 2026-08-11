@@ -427,5 +427,18 @@
     "reviews": 3.5,
     "affiliate":"https://s.shopee.co.id/5fnq6J0r1E",
     "active": true
+  },
+  {
+    "id": 34,
+    "code": "YFS-G008",
+    "category": "daily",
+    "name": "INNER DRESS SUSUN MOTIF BAHAN RAYON PREMIUM ENIFTA Dress Floral",
+    "description": "💐 Dress Floral Wanita Motif Bunga Casual, Feminin, Flowy dan Nyaman Dipakai",
+    "image": "daily/daily-009.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 3.9,
+    "affiliate":"https://s.shopee.co.id/5LB0Kohu5h",
+    "active": true
   }
 ]
