@@ -42,17 +42,17 @@
     "banner": "daily wear-banner.webp"
   },
   {
-    "id": "accessories",
-    "name": "Accessories",
-    "subtitle": "Complete your look with timeless accessories.",
-    "thumbnail": "accessories.webp",
-    "banner": "accessories-banner.webp"
-  },
-  {
     "id": "pants",
     "name": "Pants",
     "subtitle": "Stylish, comfortable, and versatile pants for every occasion.",
     "thumbnail": "pants.webp",
     "banner": "pants-banner.webp"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "subtitle": "Complete your look with timeless accessories.",
+    "thumbnail": "accessories.webp",
+    "banner": "accessories-banner.webp"
   }
 ]

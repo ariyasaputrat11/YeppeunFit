@@ -453,5 +453,18 @@
     "reviews": 59.4,
     "affiliate":"https://s.shopee.co.id/5ArbyKNvkm",
     "active": true
+  },
+  {
+    "id": 36,
+    "code": "YFS-D004",
+    "category": "knits",
+    "name": "Gaby Top - Atasan Korean Style Atasan Wanita Kekinian Renda Baju Premium Lengan Panjang",
+    "description": "Atasan wanita dengan desain feminin dan manis, dilengkapi detail bikin look semakin cute & stylish. 🎀",
+    "image": "knits/knit-005.webp",
+    "badge": "Shopee",
+    "rating": 4.4,
+    "reviews": 251,
+    "affiliate": "https://s.shopee.co.id/8V84p7Mk7t",
+    "active": true
   }
 ]
