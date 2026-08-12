@@ -466,5 +466,18 @@
     "reviews": 251,
     "affiliate": "https://s.shopee.co.id/8V84p7Mk7t",
     "active": true
+  },
+  {
+    "id": 37,
+    "code": "YFS-G009",
+    "category": "daily",
+    "name": "Piyama Wanita Kancing Depan Best Quality SATIN",
+    "description": "✨ Tampil cantik dan nyaman saat beristirahat, dengan desain elegan dan premium.",
+    "image": "daily/daily-010.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 2.8,
+    "affiliate":"https://s.shopee.co.id/7VFYNJLb8A",
+    "active": true
   }
 ]
