@@ -479,5 +479,18 @@
     "reviews": 2.8,
     "affiliate":"https://s.shopee.co.id/7VFYNJLb8A",
     "active": true
+  },
+  {
+    "id": 38,
+    "code": "YFS-G0010",
+    "category": "daily",
+    "name": "Daffodil Long Sleeve with Buttons",
+    "description": "🌼 Dilengkapi detail kancing pada bagian depan dengan desain ribbed texture yang memberikan kesan manis, fitted dan nyaman.",
+    "image": "daily/daily-011.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 49.5,
+    "affiliate":"https://s.shopee.co.id/8pkyYPONTM",
+    "active": true
   }
 ]
