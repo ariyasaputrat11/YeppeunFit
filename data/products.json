@@ -492,5 +492,18 @@
     "reviews": 49.5,
     "affiliate":"https://s.shopee.co.id/8pkyYPONTM",
     "active": true
+  },
+  {
+    "id": 39,
+    "code": "YFS-E006",
+    "category": "accessories",
+    "name": "Tas Selempang Les Catino Nusan Flap Crossbody",
+    "description": "🖤 Model crossbody clean, detail dari logo dan hardware, nambah look makin classy.",
+    "image": "accessories/accessories-006.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 20.7,
+    "affiliate":"https://s.shopee.co.id/2LXV5R4xal",
+    "active": true
   }
 ]
