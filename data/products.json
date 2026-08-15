@@ -505,5 +505,18 @@
     "reviews": 20.7,
     "affiliate":"https://s.shopee.co.id/2LXV5R4xal",
     "active": true
+  },
+  {
+    "id": 40,
+    "code": "YFS-E007",
+    "category": "accessories",
+    "name": "COZYOU - Natalia Pashmina Kaos Rayon Cool Tech Adem Flowy Stretch Premium",
+    "description": "💎 Bahan kaos rayon Cool Tech premium yang terasa adem, lembut, ringan, dan nyaman saat digunakan.",
+    "image": "accessories/accessories-007.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 126.2,
+    "affiliate":"https://s.shopee.co.id/2LXWSEtpbX",
+    "active": true
   }
 ]
