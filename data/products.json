@@ -518,5 +518,18 @@
     "reviews": 126.2,
     "affiliate":"https://s.shopee.co.id/2LXWSEtpbX",
     "active": true
+  },
+  {
+    "id": 41,
+    "code": "YFS-D005",
+    "category": "knits",
+    "name": "Bytantisa-Blouse Knit Acrylic Premium Polkalove",
+    "description": "💕 Tampil manis, cozy, dan stylish dengan Bytantisa Blouse Knit Acrylic Premium Polkalove, dengan sentuhan Korean-style yang cute dan effortless.",
+    "image": "knits/knit-006.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 7.9,
+    "affiliate": "https://s.shopee.co.id/9ANsBowRRU",
+    "active": true
   }
 ]
