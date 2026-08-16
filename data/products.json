@@ -531,5 +531,18 @@
     "reviews": 7.9,
     "affiliate": "https://s.shopee.co.id/9ANsBowRRU",
     "active": true
+  },
+  {
+    "id": 42,
+    "code": "YFS-B011",
+    "category": "tops",
+    "name": "ALYSSA Blouse Kemeja Wanita Rayon Twill",
+    "description": "👚 Desain yang simpel namun tetap stylish. Potongannya yang flowy memberikan kesan anggun dan nyaman.",
+    "image": "tops/top-011.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 9.9,
+    "affiliate":"https://s.shopee.co.id/7psV4EuiCD",
+    "active": true
   }
 ]
