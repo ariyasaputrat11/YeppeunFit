@@ -544,5 +544,18 @@
     "reviews": 9.9,
     "affiliate":"https://s.shopee.co.id/7psV4EuiCD",
     "active": true
+  },
+  {
+    "id": 43,
+    "code": "YFS-E008",
+    "category": "accessories",
+    "name": "Tas Bahu Les Catino Lct-Gin Rw Shoulder",
+    "description": "🤎 Desain minimalis & elegan dan mudah dipadukan dengan berbagai outfit.",
+    "image": "accessories/accessories-008.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 379,
+    "affiliate":"https://s.shopee.co.id/3VjXIONWdv",
+    "active": true
   }
 ]
