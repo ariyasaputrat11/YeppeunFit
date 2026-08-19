@@ -557,5 +557,18 @@
     "reviews": 379,
     "affiliate":"https://s.shopee.co.id/3VjXIONWdv",
     "active": true
+  },
+  {
+    "id": 44,
+    "code": "YFS-E009",
+    "category": "accessories",
+    "name": "GLOSSIA Tas Selempang Wanita Devi Bag Kulit Tali",
+    "description": "🎀 Tampil lebih stylish dan elegan dengan GLOSSIA Devi Bag, desain minimalis yang cocok untuk melengkapi berbagai outfit.",
+    "image": "accessories/accessories-009.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 10.5,
+    "affiliate":"https://s.shopee.co.id/AKZssjxKpu",
+    "active": true
   }
 ]
