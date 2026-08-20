@@ -583,5 +583,18 @@
     "reviews": 53.9,
     "affiliate":"https://s.shopee.co.id/6AkLh2Ugsq",
     "active": true
+  },
+  {
+    "id": 46,
+    "code": "YFS-B012",
+    "category": "tops",
+    "name": "Yoona Cute Top",
+    "description": "🤍 Model atasan wanita korean style, dengan detail ruffle, aksen gathring yang cute & feminim.",
+    "image": "tops/top-012.webp",
+    "badge": "Shopee",
+    "rating": 4.6,
+    "reviews": 12.6,
+    "affiliate":"https://s.shopee.co.id/6AkNV78gIV",
+    "active": true
   }
 ]
