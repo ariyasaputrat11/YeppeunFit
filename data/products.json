@@ -570,5 +570,18 @@
     "reviews": 10.5,
     "affiliate":"https://s.shopee.co.id/AKZssjxKpu",
     "active": true
+  },
+  {
+    "id": 45,
+    "code": "YFS-G011",
+    "category": "daily",
+    "name": "NOMOLU - Crop Top Tee Kaos Wanita Vol.036 Jersey",
+    "description": "✨ Menggunakan desain jersey yang memberikan kesan sporty, dipadukan dengan detail stripe pada bagian bahu dan graphic print khas NOMOLU.",
+    "image": "daily/daily-012.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 53.9,
+    "affiliate":"https://s.shopee.co.id/6AkLh2Ugsq",
+    "active": true
   }
 ]
