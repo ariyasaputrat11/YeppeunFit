@@ -609,5 +609,18 @@
     "reviews": 817,
     "affiliate":"https://s.shopee.co.id/904bF4Ioph",
     "active": true
+  },
+  {
+    "id": 48,
+    "code": "YFS-G013",
+    "category": "daily",
+    "name": "Sweatpants Loose Baggy Highwaist Celana Panjang Daily Wanita Training Unisex",
+    "description": "💕 Celana panjang dengan model baggy dan loose fit ini memberikan tampilan kekinian sekaligus nyaman dipakai untuk berbagai aktivitas. 🎀",
+    "image": "daily/daily-014.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 120,
+    "affiliate":"https://s.shopee.co.id/70JYix5AFs",
+    "active": true
   }
 ]
