@@ -596,5 +596,18 @@
     "reviews": 12.6,
     "affiliate":"https://s.shopee.co.id/6AkNV78gIV",
     "active": true
+  },
+  {
+    "id": 47,
+    "code": "YFS-G012",
+    "category": "daily",
+    "name": "HOTPANS POLOS 3 & 6 pcs // GROSIR HOTPEN // CD BOXER // CD KATUN",
+    "description": "✨ Model hotpants polos wanita, desain simple dan minimalis, pinggang elastis, nyaman digunakan.",
+    "image": "daily/daily-013.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 817,
+    "affiliate":"https://s.shopee.co.id/904bF4Ioph",
+    "active": true
   }
 ]
