@@ -622,5 +622,18 @@
     "reviews": 120,
     "affiliate":"https://s.shopee.co.id/70JYix5AFs",
     "active": true
+  },
+  {
+    "id": 49,
+    "code": "YFS-D006",
+    "category": "knits",
+    "name": "Sweater Polka Love Atasan Wanita Bahan Rajut Acrylic Premium",
+    "description": "✨ Material Rajut Knit Acrylic Premium yang tidak hanya nyaman tetapi juga tidak nerawang, pattern love menambahkan kesan blouse ini makin manis. 🤎",
+    "image": "knits/knit-007.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 10.4,
+    "affiliate": "https://s.shopee.co.id/BTFu4ZJ5c",
+    "active": true
   }
 ]
