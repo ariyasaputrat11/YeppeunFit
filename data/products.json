@@ -635,5 +635,18 @@
     "reviews": 10.4,
     "affiliate": "https://s.shopee.co.id/BTFu4ZJ5c",
     "active": true
+  },
+  {
+    "id": 50,
+    "code": "YFS-A002",
+    "category": "skirts",
+    "name": "Thalia - Skirt Rok Flare Lunar Mermaid Duyung Panjang Maxi Midi Wanita Bahan Scuba melar",
+    "description": "Tampil anggun dengan Lunar Mermaid Skirt, rok dengan desain mermaid yang membentuk siluet tubuh secara elegan. 💕",
+    "image": "skirts/skirt-002.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 10.1,
+    "affiliate": "https://s.shopee.co.id/7fZHeBR21Y",
+    "active": true
   }
 ]
