@@ -648,5 +648,18 @@
     "reviews": 10.1,
     "affiliate": "https://s.shopee.co.id/7fZHeBR21Y",
     "active": true
+  },
+  {
+    "id": 51,
+    "code": "YFS-E010",
+    "category": "accessories",
+    "name": "Ikat Pinggang Rantai Bohemian Retro Pinggang Wanita Gaya Etnik Dekorasi Niche Logam Gaun",
+    "description": "Rantai pinggang dengan bahan logam, kokoh dan tanpa tepi tajam, dengan desain yang etnik retro, untuk melengkapi outfit kamu. 👌",
+    "image": "accessories/accessories-010.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 807,
+    "affiliate":"https://s.shopee.co.id/6fgldXoLku",
+    "active": true
   }
 ]
