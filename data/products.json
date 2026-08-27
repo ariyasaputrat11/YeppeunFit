@@ -661,5 +661,18 @@
     "reviews": 807,
     "affiliate":"https://s.shopee.co.id/6fgldXoLku",
     "active": true
+  },
+  {
+    "id": 52,
+    "code": "YFS-E011",
+    "category": "accessories",
+    "name": "HOLLY SLINGBAG TAS SELEMPANG JINJING WANITA TERBARU KEKINIAN",
+    "description": "Tas jinjing dengan desian modern, dilengkapi tali yang bisa disesuaikan, ada detail keciL yang cute and elegant. ✨",
+    "image": "accessories/accessories-011.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 30.0,
+    "affiliate":"https://s.shopee.co.id/AUtWrykwbp",
+    "active": true
   }
 ]
