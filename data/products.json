@@ -674,5 +674,18 @@
     "reviews": 30.0,
     "affiliate":"https://s.shopee.co.id/AUtWrykwbp",
     "active": true
+  },
+  {
+    "id": 53,
+    "code": "YFS-G014",
+    "category": "daily",
+    "name": "CTP - Kaos Oneck Body Fitt Reguler",
+    "description": "Bahan knit RIB premium yang lembut dan nyaman, cocok untuk dipakai sehari-hari, dengan desain modis. 👚",
+    "image": "daily/daily-015.webp",
+    "badge": "Shopee",
+    "rating": 4.6,
+    "reviews": 165,
+    "affiliate":"https://s.shopee.co.id/1gIAU9XMMH",
+    "active": true
   }
 ]
