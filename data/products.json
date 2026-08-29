@@ -687,5 +687,18 @@
     "reviews": 165,
     "affiliate":"https://s.shopee.co.id/1gIAU9XMMH",
     "active": true
+  },
+  {
+    "id": 54,
+    "code": "YFS-E012",
+    "category": "accessories",
+    "name": "LUNA AURA Tas Selempang jinjing Wanita Bordir Alina",
+    "description": "Bahan cocolin nilon, bagian dalam dilapisi furing satin, tali tas yang fleksibel. Cocok untuk hangout dan non formal. ✨",
+    "image": "accessories/accessories-012.webp",
+    "badge": "Shopee",
+    "rating": 4.7,
+    "reviews": 15.7,
+    "affiliate":"https://s.shopee.co.id/8AVfO6V8e9",
+    "active": true
   }
 ]
