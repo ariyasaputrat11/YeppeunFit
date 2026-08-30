@@ -700,5 +700,18 @@
     "reviews": 15.7,
     "affiliate":"https://s.shopee.co.id/8AVfO6V8e9",
     "active": true
+  },
+  {
+    "id": 55,
+    "code": "YFS-B013",
+    "category": "tops",
+    "name": "Floryn Blouse Bordir Kupu Kupu Lengan Panjang",
+    "description": "🦋 Desain bordir kupu-kupu, dengan gaya cheongsam Cina membuat look elegan dan stylish.",
+    "image": "tops/top-013.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 293,
+    "affiliate":"https://s.shopee.co.id/3g3I9oxXIz",
+    "active": true
   }
 ]
