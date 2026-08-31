@@ -713,5 +713,18 @@
     "reviews": 293,
     "affiliate":"https://s.shopee.co.id/3g3I9oxXIz",
     "active": true
+  },
+  {
+    "id": 56,
+    "code": "YFS-B014",
+    "category": "tops",
+    "name": "Arumi Asimetris Blouse Zalila",
+    "description": "🌹 Didesain dengan potongan longgar dan disediakan tali agar lebih fit body, serta lengan lebar yang anggun, bagian belakang memakai sleting.",
+    "image": "tops/top-014.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 706,
+    "affiliate":"https://s.shopee.co.id/8Kp95EyYxQ",
+    "active": true
   }
 ]
