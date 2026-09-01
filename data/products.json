@@ -726,5 +726,18 @@
     "reviews": 706,
     "affiliate":"https://s.shopee.co.id/8Kp95EyYxQ",
     "active": true
+  },
+  {
+    "id": 57,
+    "code": "YFS-G015",
+    "category": "daily",
+    "name": "TREPUB. Sabrina Tali serut",
+    "description": "Tampil cakep dan stylish, desain retro & street style, dengan bahan katun yang nyamana banget dipakai. 🎗️",
+    "image": "daily/daily-016.webp",
+    "badge": "Shopee",
+    "rating": 4.7,
+    "reviews": 215,
+    "affiliate":"https://s.shopee.co.id/9AOHt5k5yc",
+    "active": true
   }
 ]
