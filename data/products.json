@@ -739,5 +739,18 @@
     "reviews": 215,
     "affiliate":"https://s.shopee.co.id/9AOHt5k5yc",
     "active": true
+  },
+  {
+    "id": 58,
+    "code": "YFS-E013",
+    "category": "accessories",
+    "name": "Shouqin Official - Aurora Square - Scarf Hijab Gradasi Two Tone 2 Warna Lasercut",
+    "description": "Tampil elegan dengan Aurora Square dengan style gradasi transisi warna dari terang ke gelap yang halus. 🌙",
+    "image": "accessories/accessories-013.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 30.2,
+    "affiliate":"https://s.shopee.co.id/AKaGN5o1bf",
+    "active": true
   }
 ]
