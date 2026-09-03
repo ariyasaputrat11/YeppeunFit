@@ -752,5 +752,18 @@
     "reviews": 30.2,
     "affiliate":"https://s.shopee.co.id/AKaGN5o1bf",
     "active": true
+  },
+  {
+    "id": 59,
+    "code": "YFS-E014",
+    "category": "accessories",
+    "name": "INDOOMS Tas kulit dengan penutup rantai kecil dan portabel, tas bahu, tas selempang",
+    "description": "Tas kulit dengan desain simple & compact, dengan penutup rantai kecil dan portabel. 💕",
+    "image": "accessories/accessories-014.webp",
+    "badge": "Shopee",
+    "rating": 4.7,
+    "reviews": 7.7,
+    "affiliate":"https://s.shopee.co.id/4fvvAxe4X4",
+    "active": true
   }
 ]
