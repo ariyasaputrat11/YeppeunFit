@@ -765,5 +765,18 @@
     "reviews": 7.7,
     "affiliate":"https://s.shopee.co.id/4fvvAxe4X4",
     "active": true
+  },
+  {
+    "id": 60,
+    "code": "YFS-G016",
+    "category": "daily",
+    "name": "Inner Dress Plisket Mayung",
+    "description": "Desain yang tidak terawang, tidak tipis, halus dan adem, tampil dengan look mewah dan elegan. 🌸",
+    "image": "daily/daily-017.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 35.8,
+    "affiliate":"https://s.shopee.co.id/5foTx5GS7y",
+    "active": true
   }
 ]
