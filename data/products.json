@@ -778,5 +778,31 @@
     "reviews": 35.8,
     "affiliate":"https://s.shopee.co.id/5foTx5GS7y",
     "active": true
+  },
+  {
+    "id": 61,
+    "code": "YFS-B015",
+    "category": "tops",
+    "name": "Raisa Blouse Kemeja Rayon Salur Kancing Depan",
+    "description": "Desain salur rayon premium yang halus & lembut nyaman dipakai, bikin outfit makin stylish & trendy. 👗",
+    "image": "tops/top-015.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 20.0,
+    "affiliate":"https://s.shopee.co.id/30nkEd0vhI",
+    "active": true
+  },
+  {
+    "id": 62,
+    "code": "YFS-H002",
+    "category": "pants",
+    "name": "KANAYA Wide Leg Pants - Katun Twill Premium",
+    "description": "Celana wanita dengan potongan lurus & jatuh rapi, bikin kaki terlihat lebih jenjang, dengan bahan katun twill premium. ✿",
+    "image": "pants/pants-002.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 5.9,
+    "affiliate":"https://s.shopee.co.id/20vD6M7eTo",
+    "active": true
   }
 ]
