@@ -804,5 +804,18 @@
     "reviews": 5.9,
     "affiliate":"https://s.shopee.co.id/20vD6M7eTo",
     "active": true
+  },
+  {
+    "id": 63,
+    "code": "YFS-C003",
+    "category": "outerwear",
+    "name": "Melisa Outer Knit - Cardigan Rajut Jaring",
+    "description": "Outer dengan bahan knit, style basic, korean, minimalis, bikin look makin stylish. ❄️",
+    "image": "outerwear/outerwear-003.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 433,
+    "affiliate": "https://s.shopee.co.id/6q0XgxF0KB",
+    "active": true
   }
 ]
