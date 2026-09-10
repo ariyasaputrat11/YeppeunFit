@@ -817,5 +817,18 @@
     "reviews": 433,
     "affiliate": "https://s.shopee.co.id/6q0XgxF0KB",
     "active": true
+  },
+  {
+    "id": 64,
+    "code": "YFS-G017",
+    "category": "daily",
+    "name": "ONE SET CROP ROK CELANA PENDEK WANITA RAYON PREMIUM",
+    "description": "Set ini terdiri dari celana rok dan atasan yang dapat dipadukan dengan berbagai aksesoris untuk tampilan yang berbeda-beda. ✿",
+    "image": "daily/daily-018.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 368,
+    "affiliate":"https://s.shopee.co.id/6q0avghZ9n",
+    "active": true
   }
 ]
