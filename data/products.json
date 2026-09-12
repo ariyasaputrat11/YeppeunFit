@@ -843,5 +843,16 @@
     "reviews": 940,
     "affiliate":"https://s.shopee.co.id/5q85KkBw3T",
     "active": true
-  }
+  },
+  {"id": 66,
+    "code": "YFS-D007",
+    "category": "knits",
+    "name": "Calluna Knit Cardigan Kancing Bunga Import",
+    "description": "Cardigan dengan desain korean, minimalis, dengan bahan yang nyaman dipakai hangout. 𝜗ৎ",
+    "image": "knits/knit-008.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 30.0,
+    "affiliate": "https://s.shopee.co.id/8pliVuCd2n",
+    "active": true}
 ]
