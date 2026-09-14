@@ -854,5 +854,19 @@
     "rating": 4.8,
     "reviews": 30.0,
     "affiliate": "https://s.shopee.co.id/8pliVuCd2n",
-    "active": true}
+    "active": true
+  },
+  {
+    "id": 67,
+    "code": "YFS-E015",
+    "category": "accessories",
+    "name": "Tas Bahu Les Catino Lcn-Ayu Flap Shoulder",
+    "description": "Tas dengan desain elegan, simple, dan mewah, bahan yang compact dipadukan dengan look yang mewah. 𝄞",
+    "image": "accessories/accessories-015.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 20.7,
+    "affiliate":"https://s.shopee.co.id/gQ3zfywAN",
+    "active": true
+  }
 ]
