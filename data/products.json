@@ -868,5 +868,18 @@
     "reviews": 20.7,
     "affiliate":"https://s.shopee.co.id/gQ3zfywAN",
     "active": true
+  },
+  {
+    "id": 68,
+    "code": "YFS-E016",
+    "category": "accessories",
+    "name": "Tas Bahu Les Catino Penny Braided Flap Shoulder",
+    "description": "Tas dengan strap yang adjustable & detachable straps, desain yang exclusive  series, bikin look tambah stylish. 🦢",
+    "image": "accessories/accessories-016.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 10.4,
+    "affiliate":"https://s.shopee.co.id/AUu1HyQ8SC",
+    "active": true
   }
 ]
