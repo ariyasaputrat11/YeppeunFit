@@ -881,5 +881,18 @@
     "reviews": 10.4,
     "affiliate":"https://s.shopee.co.id/AUu1HyQ8SC",
     "active": true
+  },
+  {
+    "id": 69,
+    "code": "YFS-B016",
+    "category": "tops",
+    "name": "Blouse Kerah Rempel Lengan Balon",
+    "description": "Desain yang feminin memberikan kesan soft, manis, dan classy, cocok untuk kamu yang ingin terlihat rapi tanpa perlu usaha berlebih. 🍂",
+    "image": "tops/top-016.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 17.5,
+    "affiliate":"https://s.shopee.co.id/W6gyAjmbg",
+    "active": true
   }
 ]
