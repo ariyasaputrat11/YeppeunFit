@@ -894,5 +894,18 @@
     "reviews": 17.5,
     "affiliate":"https://s.shopee.co.id/W6gyAjmbg",
     "active": true
+  },
+  {
+    "id": 70,
+    "code": "YFS-A003",
+    "category": "skirts",
+    "name": "DEER FASHION - Fashion Wanita Rok SAFA Polkadot Mini Skirt Pendek Korean Style",
+    "description": "Tampil feminim dengan mini skirt motif polkadot, desain yang elegan tapi tetep bikin look cantik & cakep. ❤︎",
+    "image": "skirts/skirt-003.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 135,
+    "affiliate": "https://s.shopee.co.id/gQAc81DRK",
+    "active": true
   }
 ]
