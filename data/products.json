@@ -907,5 +907,19 @@
     "reviews": 135,
     "affiliate": "https://s.shopee.co.id/gQAc81DRK",
     "active": true
+  },
+  {
+    "id": 71,
+    "code": "YFS-G019",
+    "category": "daily",
+    "name": "AIJO | Sienna Oneck Top - Atasan Wanita Hitam Bodyfit Kaos Wanita Spandex",
+    "description": "Atasan ini memiliki pola polos, warna dasar yang cocok dipadukan dengan berbagai jenis bawahan maupun aksesori lainnya untuk menciptakan gaya fashion sesuai selera Anda. ✮",
+    "image": "daily/daily-020.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 30.3,
+    "affiliate":"https://s.shopee.co.id/6fhP5xq2ih",
+    "active": true
   }
+  
 ]
