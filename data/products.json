@@ -920,6 +920,18 @@
     "reviews": 30.3,
     "affiliate":"https://s.shopee.co.id/6fhP5xq2ih",
     "active": true
+  },
+  {
+    "id": 72,
+    "code": "YFS-G020",
+    "category": "daily",
+    "name": "Atasan Wanita Crop Top Body Fit Rib",
+    "description": "Crop top dengan desain simple, jahitan rapi, bahan adem, nyaman dipakai buat sehari-hari, tpi tetep bikin look cantik. ۶ৎ",
+    "image": "daily/daily-021.webp",
+    "badge": "Shopee",
+    "rating": 4.7,
+    "reviews": 3.1,
+    "affiliate":"https://s.shopee.co.id/6AlA9erOnI",
+    "active": true
   }
-  
 ]
