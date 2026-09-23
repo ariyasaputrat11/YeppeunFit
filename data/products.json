@@ -933,5 +933,18 @@
     "reviews": 3.1,
     "affiliate":"https://s.shopee.co.id/6AlA9erOnI",
     "active": true
+  },
+  {
+    "id": 73,
+    "code": "YFS-E017",
+    "category": "accessories",
+    "name": "Deliwafa - Elory Bag | Tas Shoulder Wanita Fashion",
+    "description": "Tas fashion wanita yang cocok untuk acara formal atau hangout santai, dengan desain stylish dan compact banget. 🍰",
+    "image": "accessories/accessories-017.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 30.8,
+    "affiliate":"https://s.shopee.co.id/AUu1HyQ8SC",
+    "active": true
   }
 ]
