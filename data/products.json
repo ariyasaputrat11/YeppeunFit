@@ -946,5 +946,18 @@
     "reviews": 30.8,
     "affiliate":"https://s.shopee.co.id/AUu1HyQ8SC",
     "active": true
+  },
+  {
+    "id": 74,
+    "code": "YFS-C004",
+    "category": "outerwear",
+    "name": "GROGOLAN Vest Outer Rompi Batik V Neck Atasan Wanita Motif Kerang",
+    "description": "Vest outer dengan desain motif batik, dengan detail kancing depan, bikin look makin stylish dan anggun. 𝜗𝜚",
+    "image": "outerwear/outerwear-004.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 10.1,
+    "affiliate": "https://s.shopee.co.id/8AWRGs05Bo",
+    "active": true
   }
 ]
