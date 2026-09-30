@@ -959,5 +959,31 @@
     "reviews": 10.1,
     "affiliate": "https://s.shopee.co.id/8AWRGs05Bo",
     "active": true
+  },
+  {
+    "id": 75,
+    "code": "YFS-B017",
+    "category": "tops",
+    "name": "Hattala – Atasan Batik Wanita Katun Asli – Bolero Kutubaru – Motia Series",
+    "description": "Tampil stylish dan tetap sopan dengan atasan batik wanita lengan 3/4 berbahan katun asli, potongannya elegan, cocok untuk acara, kerja, atau sekadar hangout santai. ☘︎",
+    "image": "tops/top-017.webp",
+    "badge": "Shopee",
+    "rating": 4.5,
+    "reviews": 10.5,
+    "affiliate":"https://s.shopee.co.id/AUuOSY1M0G",
+    "active": true
+  },
+  {
+    "id": 76,
+    "code": "YFS-C005",
+    "category": "outerwear",
+    "name": "Outer Batik Wanita Modern Model Kimono - Batik Cap Viscose Premium",
+    "description": "Atasan batik modern dengan desain elegan dan potongan nyaman, cocok untuk tampilan santai hingga semi formal, motif etnik bernuansa klasik dipadukan warna lembut, memberikan kesan anggun dan dewasa. 🌸",
+    "image": "outerwear/outerwear-005.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 552,
+    "affiliate": "https://s.shopee.co.id/20vr5JbkPM",
+    "active": true
   }
 ]
