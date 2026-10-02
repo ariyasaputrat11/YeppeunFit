@@ -985,5 +985,18 @@
     "reviews": 552,
     "affiliate": "https://s.shopee.co.id/20vr5JbkPM",
     "active": true
+  },
+  {
+    "id": 77,
+    "code": "YFS-C006",
+    "category": "outerwear",
+    "name": "Outer Jaket Batik Premium",
+    "description": "Desain batik yang diaplikasikan ke jaket, bikin look stylish, tetap cinta budaya Indonesia, tanpa harus terlihat kuno. 🤍",
+    "image": "outerwear/outerwear-006.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 6.1,
+    "affiliate": "https://s.shopee.co.id/5fpB30VPbm",
+    "active": true
   }
 ]
