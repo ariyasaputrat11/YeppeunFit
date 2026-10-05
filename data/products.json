@@ -844,7 +844,8 @@
     "affiliate":"https://s.shopee.co.id/5q85KkBw3T",
     "active": true
   },
-  {"id": 66,
+  {
+    "id": 66,
     "code": "YFS-D007",
     "category": "knits",
     "name": "Calluna Knit Cardigan Kancing Bunga Import",
@@ -997,6 +998,19 @@
     "rating": 4.9,
     "reviews": 6.1,
     "affiliate": "https://s.shopee.co.id/5fpB30VPbm",
+    "active": true
+  },
+  {
+    "id": 78,
+    "code": "YFS-D008",
+    "category": "knits",
+    "name": "ATASAN ZELENA — 2 Layer Kerah U Lengan Panjang Miring Bawah Slim Fit Wanita",
+    "description": "Terbuat dari bahan Rib  berkualitas tinggi, lembut & halus di kulit, nyaman dipakai seharian, lentur & pas di badan, tidak gampang melar. 🦢",
+    "image": "knits/knit-009.webp",
+    "badge": "Shopee",
+    "rating": 4.5,
+    "reviews": 383,
+    "affiliate": "https://s.shopee.co.id/5fpIIMjSK6",
     "active": true
   }
 ]
