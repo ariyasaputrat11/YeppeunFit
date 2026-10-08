@@ -1012,5 +1012,19 @@
     "reviews": 383,
     "affiliate": "https://s.shopee.co.id/5fpIIMjSK6",
     "active": true
+  },
+  {
+    "id": 79,
+    "code": "YFS-B018",
+    "category": "tops",
+    "name": "Womscloth - Atasan Wanita Knit Kombinasi Stripe Salur Lengan Panjang Fit Body",
+    "description": "Perpaduan vest dan kemeja yang dijadikan satu, bikin look makin stylish dan elegan, tampil lebih rapi dan anggun tanpa harus ribet. ❀",
+    "image": "tops/top-018.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 6.5,
+    "affiliate":"https://s.shopee.co.id/3LRRTFCHli",
+    "active": true
   }
+
 ]
