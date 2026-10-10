@@ -1025,6 +1025,19 @@
     "reviews": 6.5,
     "affiliate":"https://s.shopee.co.id/3LRRTFCHli",
     "active": true
+  },
+  {
+    "id": 80,
+    "code": "YFS-B019",
+    "category": "tops",
+    "name": "BAJU BATIK WANITA MODERN MONALISA GENES M,L,XL asli PEKALONGAN",
+    "description": "Motif yang cantik & stylish, dengan bahan halus, lembut, nyaman, sehingga bikin look kamu makin mewah & elegan. ❤︎",
+    "image": "tops/top-019.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 50.0,
+    "affiliate":"https://s.shopee.co.id/1LgOoFO2nk",
+    "active": true
   }
 
 ]
