@@ -1038,6 +1038,17 @@
     "reviews": 50.0,
     "affiliate":"https://s.shopee.co.id/1LgOoFO2nk",
     "active": true
+  },
+  {"id": 81,
+    "code": "YFS-C007",
+    "category": "outerwear",
+    "name": "Cross Outer Vest Batik Simple",
+    "description": "Cross vest batik dengan bahan katun micro, tidak tebal tapi tidak terawang, ada tali samping kanan & kiri, bikin tambah trendy & stylish. 🦢",
+    "image": "outerwear/outerwear-007.webp",
+    "badge": "Shopee",
+    "rating": 4.8,
+    "reviews": 10.2,
+    "affiliate": "https://s.shopee.co.id/1qckcfwXpO",
+    "active": true
   }
-
 ]
