@@ -1039,7 +1039,8 @@
     "affiliate":"https://s.shopee.co.id/1LgOoFO2nk",
     "active": true
   },
-  {"id": 81,
+  {
+    "id": 81,
     "code": "YFS-C007",
     "category": "outerwear",
     "name": "Cross Outer Vest Batik Simple",
@@ -1049,6 +1050,45 @@
     "rating": 4.8,
     "reviews": 10.2,
     "affiliate": "https://s.shopee.co.id/1qckcfwXpO",
+    "active": true
+  },
+  {
+    "id": 82,
+    "code": "YFS-B020",
+    "category": "tops",
+    "name": "Blouse Batik Sanghay",
+    "description": "Terbuat dari bahan katun yang halus, lembut, adem, dan nyaman dipakai sepanjang hari. 𝜗ৎ",
+    "image": "tops/top-020.webp",
+    "badge": "Shopee",
+    "rating": 5.0,
+    "reviews": 20.0,
+    "affiliate":"https://s.shopee.co.id/8V9kowlmaE",
+    "active": true
+  },
+  {
+    "id": 83,
+    "code": "YFS-C008",
+    "category": "outerwear",
+    "name": "Outer Vest Batik Bolero",
+    "description": "Desain yang minimalis, style korean perpaduan batik, bikin look makin cakep & cute banget. ✮",
+    "image": "outerwear/outerwear-008.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 553,
+    "affiliate": "https://s.shopee.co.id/9fLjKMtDBz",
+    "active": true
+  },
+  {
+    "id": 84,
+    "code": "YFS-A004",
+    "category": "skirts",
+    "name": "ROK MIDI BATIK WANITA MODERN ETNIK MOTIF BORDIR",
+    "description": "Tampil beda dengan Rok Batik yang menggabungkan keindahan motif Batik dengan desain modern stylish. 🍰",
+    "image": "skirts/skirt-004.webp",
+    "badge": "Shopee",
+    "rating": 4.9,
+    "reviews": 347,
+    "affiliate": "https://s.shopee.co.id/4fx4Fe6s9A",
     "active": true
   }
 ]
